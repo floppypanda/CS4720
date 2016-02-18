@@ -91,7 +91,7 @@ int main(int argc, char *argv[])
 
     }
 
-    /*Pausing so that all input may be viewed.*/
+    /*Pausing so that all output may be viewed.*/
     cin.get();
 
     return a.exec();
